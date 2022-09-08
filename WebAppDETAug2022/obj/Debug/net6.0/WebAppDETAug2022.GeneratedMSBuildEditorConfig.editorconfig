@@ -39,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/HelloPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVsbG9QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ETG1/source/repos/WebAppDETAug2022/WebAppDETAug2022/Pages/Helloweb.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVsbG93ZWIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

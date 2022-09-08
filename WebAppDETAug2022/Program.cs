@@ -1,13 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using WebAppDETAug2022.Data;
+using WebAppDETAug2022.Servics;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<WebAppDETAug2022Context>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WebAppDETAug2022Context") ?? throw new InvalidOperationException("Connection string 'WebAppDETAug2022Context' not found.")));
-
+builder.Services.AddSingleton<IHello, Hello1>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
