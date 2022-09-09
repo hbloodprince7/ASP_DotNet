@@ -265,3 +265,4 @@ C:\Users\ETG1\source\repos\WebAppDETAug2022\MVCDemo\bin\Debug\net6.0\WebAppDETAu
 C:\Users\ETG1\source\repos\WebAppDETAug2022\MVCDemo\bin\Debug\net6.0\WebAppDETAug2022.pdb
 C:\Users\ETG1\source\repos\WebAppDETAug2022\MVCDemo\obj\Debug\net6.0\MVCDemo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ETG1\source\repos\WebAppDETAug2022\MVCDemo\obj\Debug\net6.0\MVCDemo.csproj.CopyComplete
+C:\Users\ETG1\source\repos\WebAppDETAug2022\MVCDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

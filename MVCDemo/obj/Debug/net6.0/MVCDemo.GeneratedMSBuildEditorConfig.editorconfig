@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ETG1\source\repos\WebAppDETAug2022\MVCDemo
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Bookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Event/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -31,6 +51,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizzas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizzas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizzas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizzas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizzas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizza/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,6 +85,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizza/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Pizza/_PizzaList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcX1BpenphTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ETG1/source/repos/WebAppDETAug2022/MVCDemo/Views/Shared/Error.cshtml]

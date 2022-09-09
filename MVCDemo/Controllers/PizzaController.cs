@@ -35,7 +35,7 @@ namespace MVCDemo.Controllers
         [HttpPost]
         public IActionResult Update(Pizza p)
         {
-            //Pizza p = new Pizza { Id = id, Name = name, Price = price, Size = (PizzaSize)size, IsGlutenFree = isglutenfree };
+            
             PizzaService.Update(p);
             return RedirectToAction("Index");
         }

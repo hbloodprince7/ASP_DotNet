@@ -15,6 +15,19 @@ namespace MVCDemo.Models
         public decimal Price { get; set; }
     }
 
+    public class Topping
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public bool IsVeg { get; set; }
+    }
+
+    public class Sauce
+    {
+        public int ID { get; set; }
+        public string Name { get; set; } 
+    }
+
     public enum PizzaSize
     {
         Small, Medium, Large

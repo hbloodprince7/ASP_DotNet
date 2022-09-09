@@ -11,7 +11,7 @@ namespace MVCDemo.Controllers
         public IActionResult Index()
         {
             events = new List<Booking>();
-            events.Add(new Booking { Title = "MEETING", Date = DateOnly.FromDateTime(DateTime.Now), Quantity = 5 });
+            events.Add(new Booking { Title = "MEETING", Date = DateTime.Now, Quantity = 5 });
             return View(events);
         }
     }

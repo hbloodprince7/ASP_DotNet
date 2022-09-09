@@ -1,6 +1,6 @@
 ﻿No. Of Pizzas available = @Model.Count
 
-<p> DETAILS</p>
+@*<p> DETAILS</p>
 <table class="table">
     @foreach(Pizza p in @Model)
     {
@@ -11,4 +11,5 @@
             </td>
         </tr>
     }
-</table>
+</table>*@
+<partial name="_PizzaList" />
