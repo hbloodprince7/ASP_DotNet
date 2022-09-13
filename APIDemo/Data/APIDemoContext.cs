@@ -15,5 +15,7 @@ namespace APIDemo.Data
         }
 
         public DbSet<APIDemo.Models.Pizza> Pizza { get; set; } = default!;
+
+        public DbSet<APIDemo.Models.User>? User { get; set; }
     }
 }
