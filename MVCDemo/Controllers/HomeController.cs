@@ -23,6 +23,7 @@ namespace MVCDemo.Controllers
 
         [MyLog]
         public IActionResult Index()
+
         {
             return View();
         }
