@@ -1,7 +1,7 @@
 ﻿
-using WebAppDETAug2022.Models;
+using APIDemo.Models;
 
-namespace WebAppDETAug2022.Servics
+namespace APIDemo.Services
 {
     public class TicketService
     {
