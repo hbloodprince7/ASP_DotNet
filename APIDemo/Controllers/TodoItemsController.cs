@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using APIDemo.Data;
 using APIDemo.Models;
+using APIDemo.Data;
+using Microsoft.AspNetCore.OData.Query;
 
 namespace APIDemo.Controllers
 {
@@ -22,13 +23,15 @@ namespace APIDemo.Controllers
         }
 
         // GET: api/TodoItems
+        [EnableQuery]
         [HttpGet]
+
         public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodoItem()
         {
-          if (_context.TodoItem == null)
-          {
-              return NotFound();
-          }
+            if (_context.TodoItem == null)
+            {
+                return NotFound();
+            }
             return await _context.TodoItem.ToListAsync();
         }
 
@@ -36,10 +39,10 @@ namespace APIDemo.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<TodoItem>> GetTodoItem(long id)
         {
-          if (_context.TodoItem == null)
-          {
-              return NotFound();
-          }
+            if (_context.TodoItem == null)
+            {
+                return NotFound();
+            }
             var todoItem = await _context.TodoItem.FindAsync(id);
 
             if (todoItem == null)
@@ -86,10 +89,10 @@ namespace APIDemo.Controllers
         [HttpPost]
         public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem todoItem)
         {
-          if (_context.TodoItem == null)
-          {
-              return Problem("Entity set 'APIDemoContext.TodoItem'  is null.");
-          }
+            if (_context.TodoItem == null)
+            {
+                return Problem("Entity set 'APIDemoContext.TodoItem'  is null.");
+            }
             _context.TodoItem.Add(todoItem);
             await _context.SaveChangesAsync();
 

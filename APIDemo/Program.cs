@@ -1,11 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using APIDemo.Data;
+using Microsoft.AspNetCore.OData;
+using APIDemo.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<APIDemoContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("APIDemoContext") ?? throw new InvalidOperationException("Connection string 'APIDemoContext' not found.")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ApiDemoContext") ?? throw new InvalidOperationException("Connection string 'ApiDemoContext' not found.")));
 
+
+builder.Services.AddControllers().AddOData(options => options.Select().Filter());
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -21,12 +25,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-
-app.UseDefaultFiles();
-app.UseStaticFiles();
-
-
 
 app.UseHttpsRedirection();
 

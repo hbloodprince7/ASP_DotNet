@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using APIDemo.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace APIDemo.Data
 {
@@ -19,5 +20,8 @@ namespace APIDemo.Data
         public DbSet<APIDemo.Models.User>? User { get; set; }
 
         public DbSet<APIDemo.Models.TodoItem>? TodoItem { get; set; }
+
     }
+
+
 }

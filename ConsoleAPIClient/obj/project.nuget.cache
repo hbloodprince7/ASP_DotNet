@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "5tVyF2XpN82BgjThALdmCUWYwyjkxv/rW+KOCD6eo5MZn65b5xr79tUkWfQ72GGTPLD/Mi1BG4B40FF9n8lMzQ==",
+  "dgSpecHash": "NPrjVgHLca0ts0o+UGs0WL5Vguv0TNqizZeKDHESjhyL0SLfpumivEd6F0rM/4fEuFPg5QN409SY92swF6HDRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ETG1\\source\\repos\\WebAppDETAug2022\\ConsoleAPIClient\\ConsoleAPIClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ETG1\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.11\\microsoft.aspnetcore.odata.8.0.11.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\microsoft.odata.core\\7.12.2\\microsoft.odata.core.7.12.2.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\microsoft.odata.edm\\7.12.2\\microsoft.odata.edm.7.12.2.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.8\\microsoft.odata.modelbuilder.1.0.8.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\microsoft.spatial\\7.12.2\\microsoft.spatial.7.12.2.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\ETG1\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
