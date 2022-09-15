@@ -1,0 +1,12 @@
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\bin\Debug\net6.0\TDDClassLibrary.deps.json
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\bin\Debug\net6.0\TDDClassLibrary.dll
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\bin\Debug\net6.0\TDDClassLibrary.pdb
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.dll
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\refint\TDDClassLibrary.dll
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\TDDClassLibrary.pdb
+C:\Users\ETG1\source\repos\WebAppDETAug2022\TDDClassLibrary\obj\Debug\net6.0\ref\TDDClassLibrary.dll
